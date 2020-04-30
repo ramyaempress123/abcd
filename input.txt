@@ -1,0 +1,2 @@
+S->ASA|cS|aAb
+A->aAb|^
